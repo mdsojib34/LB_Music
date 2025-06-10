@@ -34,7 +34,7 @@
    sudo apt-get update && sudo apt-get upgrade -y
    ```
 
-2. **Install Required Packages:**
+2. **Install ![1000036911](https://github.com/user-attachments/assets/01810c3d-f083-4d13-b53b-32feedac36a0) Packages:**
    ```bash
    sudo apt-get install python3-pip ffmpeg -y
    ```
